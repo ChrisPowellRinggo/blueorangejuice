@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, type RefObject } from 'react'
 
 export interface InputState {
   move: { x: number; z: number }
@@ -11,7 +11,7 @@ export interface InputState {
  * Returns a ref containing the current input state (updated imperatively for
  * zero re-render overhead in the game loop).
  */
-export function useInput(): React.RefObject<InputState> {
+export function useInput(): RefObject<InputState> {
   const inputRef = useRef<InputState>({
     move: { x: 0, z: 0 },
     jumping: false,

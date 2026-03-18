@@ -22,7 +22,7 @@ export class GameServer {
     this.io.on('connection', (socket: TypedSocket) => {
       console.log('Player connected:', socket.id)
 
-      socket.on('join_room', (roomId: string) => this.rooms.join(socket, roomId))
+      socket.on('join_room', (data) => this.rooms.join(socket, data.roomId, data.username))
       socket.on('player_input', (input: PlayerInput) => this.handleInput(socket, input))
       socket.on('disconnect', () => this.rooms.leave(socket))
     })

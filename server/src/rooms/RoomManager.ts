@@ -16,7 +16,7 @@ export class RoomManager {
     this.socketToRoom = new Map()
   }
 
-  join(socket: TypedSocket, roomId: string): void {
+  join(socket: TypedSocket, roomId: string, username: string): void {
     if (!this.rooms.has(roomId)) {
       const room = new Room(roomId, this.io)
       this.rooms.set(roomId, room)
@@ -24,7 +24,7 @@ export class RoomManager {
     }
 
     const room = this.rooms.get(roomId) as Room
-    room.addPlayer(socket)
+    room.addPlayer(socket, username)
     this.socketToRoom.set(socket.id, roomId)
     socket.join(roomId)
   }

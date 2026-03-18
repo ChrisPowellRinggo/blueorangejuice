@@ -13,7 +13,9 @@ const BULLET_SPEED = 40 // units per second
 
 export function Bullet({ bullet }: BulletProps): React.ReactElement {
   const meshRef = useRef<THREE.Mesh>(null)
+  const matRef = useRef<THREE.MeshStandardMaterial>(null)
   const removeBullet = useGameStore((s) => s.removeBullet)
+  const birthTime = useRef(bullet.createdAt)
 
   // Auto-remove after 2 seconds
   useEffect(() => {
@@ -29,25 +31,41 @@ export function Bullet({ bullet }: BulletProps): React.ReactElement {
     const mesh = meshRef.current
     if (!mesh) return
 
+    // Move bullet forward
     mesh.position.x += bullet.dir.x * BULLET_SPEED * delta
     mesh.position.y += bullet.dir.y * BULLET_SPEED * delta
     mesh.position.z += bullet.dir.z * BULLET_SPEED * delta
+
+    // Pulse emissive intensity using sine wave
+    const age = (Date.now() - birthTime.current) / 1000
+    if (matRef.current) {
+      matRef.current.emissiveIntensity = 2 + Math.sin(age * 30) * 1.5
+    }
+
+    // Spin the bullet on its travel axis for a drill effect
+    mesh.rotation.z += delta * 20
   })
 
   return (
     <Trail
-      width={0.1}
-      length={8}
-      color={new THREE.Color('orange')}
-      attenuation={(t) => t * t}
+      width={0.15}
+      length={12}
+      color={new THREE.Color(1, 0.5, 0)}
+      attenuation={(t) => t * t * t}
     >
       <mesh
         ref={meshRef}
         position={[bullet.pos.x, bullet.pos.y, bullet.pos.z]}
         castShadow
       >
-        <sphereGeometry args={[0.05, 6, 6]} />
-        <meshStandardMaterial color="orange" emissive="orange" emissiveIntensity={2} />
+        <sphereGeometry args={[0.06, 8, 8]} />
+        <meshStandardMaterial
+          ref={matRef}
+          color="#ff6600"
+          emissive="#ff4400"
+          emissiveIntensity={2}
+          toneMapped={false}
+        />
       </mesh>
     </Trail>
   )

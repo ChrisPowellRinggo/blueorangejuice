@@ -3,9 +3,7 @@ import type { ServerToClientEvents, ClientToServerEvents, PlayerInput } from '@s
 import type { PlayerState, BulletState } from '@shared/types/player'
 import * as MovementSystem from '../systems/MovementSystem'
 import { registerShot, applyDamage } from '../systems/CombatSystem'
-
-const TICK_RATE = 20 // Hz — matches shared/constants/game.js
-const PLAYER_START_HEALTH = 100
+import { TICK_RATE, PLAYER_START_HEALTH, SPAWN_POINTS } from '@shared/constants/game'
 
 type TypedServer = Server<ClientToServerEvents, ServerToClientEvents>
 type TypedSocket = Socket<ClientToServerEvents, ServerToClientEvents>
@@ -35,11 +33,12 @@ export class Room {
   // Player lifecycle
   // ---------------------------------------------------------------------------
 
-  addPlayer(socket: TypedSocket): void {
+  addPlayer(socket: TypedSocket, username: string): void {
+    const spawn = SPAWN_POINTS[this.players.size % SPAWN_POINTS.length]
     const player: PlayerState = {
       id: socket.id,
-      username: socket.id, // overridden when auth is wired up
-      pos: { x: 0, y: 0, z: 0 },
+      username,
+      pos: { ...spawn },
       rot: { yaw: 0, pitch: 0 },
       health: PLAYER_START_HEALTH,
       anim: 'idle',

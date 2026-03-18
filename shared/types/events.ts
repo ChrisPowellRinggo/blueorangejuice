@@ -10,7 +10,7 @@ export interface ServerToClientEvents {
 }
 
 export interface ClientToServerEvents {
-  join_room:    (roomId: string) => void;
+  join_room:    (data: { roomId: string; username: string }) => void;
   player_input: (input: PlayerInput) => void;
 }
 

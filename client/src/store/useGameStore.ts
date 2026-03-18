@@ -47,7 +47,7 @@ export const useGameStore = create<GameStore>((set) => ({
   ammo: 30,
 
   joinRoom: (roomId: string, username: string) => {
-    socket.emit('join_room', roomId)
+    socket.emit('join_room', { roomId, username })
     set({
       roomId,
       localPlayer: {
