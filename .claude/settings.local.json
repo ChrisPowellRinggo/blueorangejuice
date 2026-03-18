@@ -3,7 +3,8 @@
     "allow": [
       "Skill(claude-api)",
       "Skill(claude-api:*)",
-      "Bash(ls \"c:/Users/christopher.powell/OneDrive - Parkmobile Software B.V/Documents/Projects/untitledfirstpersongame\"/*.md)"
+      "Bash(ls \"c:/Users/christopher.powell/OneDrive - Parkmobile Software B.V/Documents/Projects/untitledfirstpersongame\"/*.md)",
+      "Bash(npm install:*)"
     ],
     "additionalDirectories": [
       "c:\\Users\\christopher.powell\\OneDrive - Parkmobile Software B.V\\Documents\\Projects\\untitledfirstpersongame\\.claude"
