@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "Bash(ls \"c:/Users/christopher.powell/OneDrive - Parkmobile Software B.V/Documents/Projects/untitledfirstpersongame\"/*.md)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\christopher.powell\\OneDrive - Parkmobile Software B.V\\Documents\\Projects\\untitledfirstpersongame\\.claude"
+    ]
+  }
+}
