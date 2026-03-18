@@ -1,0 +1,4506 @@
+[
+  {
+    "path": "docs/pages/AnimationAction.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "AnimationAction",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnimationAction.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:AnimationAction"
+  },
+  {
+    "path": "docs/pages/AnimationClip.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "AnimationClip",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnimationClip.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:AnimationClip"
+  },
+  {
+    "path": "docs/pages/AnimationMixer.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "AnimationMixer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnimationMixer.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:AnimationMixer"
+  },
+  {
+    "path": "docs/pages/AnimationObjectGroup.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "AnimationObjectGroup",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnimationObjectGroup.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:AnimationObjectGroup"
+  },
+  {
+    "path": "docs/pages/AnimationUtils.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "AnimationUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnimationUtils.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:AnimationUtils"
+  },
+  {
+    "path": "docs/pages/BooleanKeyframeTrack.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "BooleanKeyframeTrack",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BooleanKeyframeTrack.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:BooleanKeyframeTrack"
+  },
+  {
+    "path": "docs/pages/ColorKeyframeTrack.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "ColorKeyframeTrack",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ColorKeyframeTrack.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:ColorKeyframeTrack"
+  },
+  {
+    "path": "docs/pages/KeyframeTrack.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "KeyframeTrack",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/KeyframeTrack.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:KeyframeTrack"
+  },
+  {
+    "path": "docs/pages/NumberKeyframeTrack.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "NumberKeyframeTrack",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NumberKeyframeTrack.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:NumberKeyframeTrack"
+  },
+  {
+    "path": "docs/pages/PropertyBinding.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "PropertyBinding",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PropertyBinding.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:PropertyBinding"
+  },
+  {
+    "path": "docs/pages/PropertyMixer.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "PropertyMixer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PropertyMixer.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:PropertyMixer"
+  },
+  {
+    "path": "docs/pages/QuaternionKeyframeTrack.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "QuaternionKeyframeTrack",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/QuaternionKeyframeTrack.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:QuaternionKeyframeTrack"
+  },
+  {
+    "path": "docs/pages/StringKeyframeTrack.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "StringKeyframeTrack",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/StringKeyframeTrack.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:StringKeyframeTrack"
+  },
+  {
+    "path": "docs/pages/VectorKeyframeTrack.html",
+    "category": "core",
+    "subcategory": "animation",
+    "name": "VectorKeyframeTrack",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VectorKeyframeTrack.html",
+    "docs_url": "https://threejs.org/docs/#core/animation:VectorKeyframeTrack"
+  },
+  {
+    "path": "docs/pages/Audio.html",
+    "category": "core",
+    "subcategory": "audio",
+    "name": "Audio",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Audio.html",
+    "docs_url": "https://threejs.org/docs/#core/audio:Audio"
+  },
+  {
+    "path": "docs/pages/AudioAnalyser.html",
+    "category": "core",
+    "subcategory": "audio",
+    "name": "AudioAnalyser",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AudioAnalyser.html",
+    "docs_url": "https://threejs.org/docs/#core/audio:AudioAnalyser"
+  },
+  {
+    "path": "docs/pages/AudioContext.html",
+    "category": "core",
+    "subcategory": "audio",
+    "name": "AudioContext",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AudioContext.html",
+    "docs_url": "https://threejs.org/docs/#core/audio:AudioContext"
+  },
+  {
+    "path": "docs/pages/AudioListener.html",
+    "category": "core",
+    "subcategory": "audio",
+    "name": "AudioListener",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AudioListener.html",
+    "docs_url": "https://threejs.org/docs/#core/audio:AudioListener"
+  },
+  {
+    "path": "docs/pages/PositionalAudio.html",
+    "category": "core",
+    "subcategory": "audio",
+    "name": "PositionalAudio",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PositionalAudio.html",
+    "docs_url": "https://threejs.org/docs/#core/audio:PositionalAudio"
+  },
+  {
+    "path": "docs/pages/ArrayCamera.html",
+    "category": "core",
+    "subcategory": "cameras",
+    "name": "ArrayCamera",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ArrayCamera.html",
+    "docs_url": "https://threejs.org/docs/#core/cameras:ArrayCamera"
+  },
+  {
+    "path": "docs/pages/Camera.html",
+    "category": "core",
+    "subcategory": "cameras",
+    "name": "Camera",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Camera.html",
+    "docs_url": "https://threejs.org/docs/#core/cameras:Camera"
+  },
+  {
+    "path": "docs/pages/CubeCamera.html",
+    "category": "core",
+    "subcategory": "cameras",
+    "name": "CubeCamera",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubeCamera.html",
+    "docs_url": "https://threejs.org/docs/#core/cameras:CubeCamera"
+  },
+  {
+    "path": "docs/pages/OrthographicCamera.html",
+    "category": "core",
+    "subcategory": "cameras",
+    "name": "OrthographicCamera",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OrthographicCamera.html",
+    "docs_url": "https://threejs.org/docs/#core/cameras:OrthographicCamera"
+  },
+  {
+    "path": "docs/pages/PerspectiveCamera.html",
+    "category": "core",
+    "subcategory": "cameras",
+    "name": "PerspectiveCamera",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PerspectiveCamera.html",
+    "docs_url": "https://threejs.org/docs/#core/cameras:PerspectiveCamera"
+  },
+  {
+    "path": "docs/pages/StereoCamera.html",
+    "category": "core",
+    "subcategory": "cameras",
+    "name": "StereoCamera",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/StereoCamera.html",
+    "docs_url": "https://threejs.org/docs/#core/cameras:StereoCamera"
+  },
+  {
+    "path": "docs/pages/BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:BufferAttribute"
+  },
+  {
+    "path": "docs/pages/BufferGeometry.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "BufferGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BufferGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/core:BufferGeometry"
+  },
+  {
+    "path": "docs/pages/Clock.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Clock",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Clock.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Clock"
+  },
+  {
+    "path": "docs/pages/EventDispatcher.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "EventDispatcher",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EventDispatcher.html",
+    "docs_url": "https://threejs.org/docs/#core/core:EventDispatcher"
+  },
+  {
+    "path": "docs/pages/Float16BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Float16BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Float16BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Float16BufferAttribute"
+  },
+  {
+    "path": "docs/pages/Float32BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Float32BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Float32BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Float32BufferAttribute"
+  },
+  {
+    "path": "docs/pages/GLBufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "GLBufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GLBufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:GLBufferAttribute"
+  },
+  {
+    "path": "docs/pages/InstancedBufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "InstancedBufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InstancedBufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:InstancedBufferAttribute"
+  },
+  {
+    "path": "docs/pages/InstancedBufferGeometry.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "InstancedBufferGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InstancedBufferGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/core:InstancedBufferGeometry"
+  },
+  {
+    "path": "docs/pages/InstancedInterleavedBuffer.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "InstancedInterleavedBuffer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InstancedInterleavedBuffer.html",
+    "docs_url": "https://threejs.org/docs/#core/core:InstancedInterleavedBuffer"
+  },
+  {
+    "path": "docs/pages/Int16BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Int16BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Int16BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Int16BufferAttribute"
+  },
+  {
+    "path": "docs/pages/Int32BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Int32BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Int32BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Int32BufferAttribute"
+  },
+  {
+    "path": "docs/pages/Int8BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Int8BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Int8BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Int8BufferAttribute"
+  },
+  {
+    "path": "docs/pages/InterleavedBuffer.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "InterleavedBuffer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InterleavedBuffer.html",
+    "docs_url": "https://threejs.org/docs/#core/core:InterleavedBuffer"
+  },
+  {
+    "path": "docs/pages/InterleavedBufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "InterleavedBufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InterleavedBufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:InterleavedBufferAttribute"
+  },
+  {
+    "path": "docs/pages/Layers.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Layers",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Layers.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Layers"
+  },
+  {
+    "path": "docs/pages/Object3D.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Object3D",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Object3D.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Object3D"
+  },
+  {
+    "path": "docs/pages/Raycaster.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Raycaster",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Raycaster.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Raycaster"
+  },
+  {
+    "path": "docs/pages/RenderTarget.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "RenderTarget",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RenderTarget.html",
+    "docs_url": "https://threejs.org/docs/#core/core:RenderTarget"
+  },
+  {
+    "path": "docs/pages/RenderTarget3D.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "RenderTarget3D",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RenderTarget3D.html",
+    "docs_url": "https://threejs.org/docs/#core/core:RenderTarget3D"
+  },
+  {
+    "path": "docs/pages/Timer.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Timer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Timer.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Timer"
+  },
+  {
+    "path": "docs/pages/Uint16BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Uint16BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Uint16BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Uint16BufferAttribute"
+  },
+  {
+    "path": "docs/pages/Uint32BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Uint32BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Uint32BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Uint32BufferAttribute"
+  },
+  {
+    "path": "docs/pages/Uint8BufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Uint8BufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Uint8BufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Uint8BufferAttribute"
+  },
+  {
+    "path": "docs/pages/Uint8ClampedBufferAttribute.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Uint8ClampedBufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Uint8ClampedBufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Uint8ClampedBufferAttribute"
+  },
+  {
+    "path": "docs/pages/Uniform.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "Uniform",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Uniform.html",
+    "docs_url": "https://threejs.org/docs/#core/core:Uniform"
+  },
+  {
+    "path": "docs/pages/UniformsGroup.html",
+    "category": "core",
+    "subcategory": "core",
+    "name": "UniformsGroup",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/UniformsGroup.html",
+    "docs_url": "https://threejs.org/docs/#core/core:UniformsGroup"
+  },
+  {
+    "path": "docs/pages/ArcCurve.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "ArcCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ArcCurve.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:ArcCurve"
+  },
+  {
+    "path": "docs/pages/CatmullRomCurve3.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "CatmullRomCurve3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CatmullRomCurve3.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:CatmullRomCurve3"
+  },
+  {
+    "path": "docs/pages/Controls.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "Controls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Controls.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:Controls"
+  },
+  {
+    "path": "docs/pages/CubicBezierCurve.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "CubicBezierCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubicBezierCurve.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:CubicBezierCurve"
+  },
+  {
+    "path": "docs/pages/CubicBezierCurve3.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "CubicBezierCurve3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubicBezierCurve3.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:CubicBezierCurve3"
+  },
+  {
+    "path": "docs/pages/Curve.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "Curve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Curve.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:Curve"
+  },
+  {
+    "path": "docs/pages/CurvePath.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "CurvePath",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CurvePath.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:CurvePath"
+  },
+  {
+    "path": "docs/pages/DataUtils.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "DataUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DataUtils.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:DataUtils"
+  },
+  {
+    "path": "docs/pages/Earcut.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "Earcut",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Earcut.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:Earcut"
+  },
+  {
+    "path": "docs/pages/EllipseCurve.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "EllipseCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EllipseCurve.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:EllipseCurve"
+  },
+  {
+    "path": "docs/pages/ImageUtils.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "ImageUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ImageUtils.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:ImageUtils"
+  },
+  {
+    "path": "docs/pages/LineCurve.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "LineCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineCurve.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:LineCurve"
+  },
+  {
+    "path": "docs/pages/LineCurve3.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "LineCurve3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineCurve3.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:LineCurve3"
+  },
+  {
+    "path": "docs/pages/PMREMGenerator.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "PMREMGenerator",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PMREMGenerator.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:PMREMGenerator"
+  },
+  {
+    "path": "docs/pages/Path.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "Path",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Path.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:Path"
+  },
+  {
+    "path": "docs/pages/QuadraticBezierCurve.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "QuadraticBezierCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/QuadraticBezierCurve.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:QuadraticBezierCurve"
+  },
+  {
+    "path": "docs/pages/QuadraticBezierCurve3.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "QuadraticBezierCurve3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/QuadraticBezierCurve3.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:QuadraticBezierCurve3"
+  },
+  {
+    "path": "docs/pages/Shape.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "Shape",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Shape.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:Shape"
+  },
+  {
+    "path": "docs/pages/ShapePath.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "ShapePath",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShapePath.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:ShapePath"
+  },
+  {
+    "path": "docs/pages/ShapeUtils.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "ShapeUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShapeUtils.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:ShapeUtils"
+  },
+  {
+    "path": "docs/pages/SplineCurve.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "SplineCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SplineCurve.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:SplineCurve"
+  },
+  {
+    "path": "docs/pages/TextureUtils.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "TextureUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TextureUtils.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:TextureUtils"
+  },
+  {
+    "path": "docs/pages/module-Interpolations.html",
+    "category": "core",
+    "subcategory": "extras",
+    "name": "module-Interpolations",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-Interpolations.html",
+    "docs_url": "https://threejs.org/docs/#core/extras:module-Interpolations"
+  },
+  {
+    "path": "docs/pages/BoxGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "BoxGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BoxGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:BoxGeometry"
+  },
+  {
+    "path": "docs/pages/CapsuleGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "CapsuleGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CapsuleGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:CapsuleGeometry"
+  },
+  {
+    "path": "docs/pages/CircleGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "CircleGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CircleGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:CircleGeometry"
+  },
+  {
+    "path": "docs/pages/ConeGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "ConeGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ConeGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:ConeGeometry"
+  },
+  {
+    "path": "docs/pages/CylinderGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "CylinderGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CylinderGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:CylinderGeometry"
+  },
+  {
+    "path": "docs/pages/DodecahedronGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "DodecahedronGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DodecahedronGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:DodecahedronGeometry"
+  },
+  {
+    "path": "docs/pages/EdgesGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "EdgesGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EdgesGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:EdgesGeometry"
+  },
+  {
+    "path": "docs/pages/ExtrudeGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "ExtrudeGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ExtrudeGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:ExtrudeGeometry"
+  },
+  {
+    "path": "docs/pages/IcosahedronGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "IcosahedronGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/IcosahedronGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:IcosahedronGeometry"
+  },
+  {
+    "path": "docs/pages/LatheGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "LatheGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LatheGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:LatheGeometry"
+  },
+  {
+    "path": "docs/pages/OctahedronGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "OctahedronGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OctahedronGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:OctahedronGeometry"
+  },
+  {
+    "path": "docs/pages/PlaneGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "PlaneGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PlaneGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:PlaneGeometry"
+  },
+  {
+    "path": "docs/pages/PolyhedronGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "PolyhedronGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PolyhedronGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:PolyhedronGeometry"
+  },
+  {
+    "path": "docs/pages/RingGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "RingGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RingGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:RingGeometry"
+  },
+  {
+    "path": "docs/pages/ShapeGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "ShapeGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShapeGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:ShapeGeometry"
+  },
+  {
+    "path": "docs/pages/SphereGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "SphereGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SphereGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:SphereGeometry"
+  },
+  {
+    "path": "docs/pages/TetrahedronGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "TetrahedronGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TetrahedronGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:TetrahedronGeometry"
+  },
+  {
+    "path": "docs/pages/TorusGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "TorusGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TorusGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:TorusGeometry"
+  },
+  {
+    "path": "docs/pages/TorusKnotGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "TorusKnotGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TorusKnotGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:TorusKnotGeometry"
+  },
+  {
+    "path": "docs/pages/TubeGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "TubeGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TubeGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:TubeGeometry"
+  },
+  {
+    "path": "docs/pages/WireframeGeometry.html",
+    "category": "core",
+    "subcategory": "geometries",
+    "name": "WireframeGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WireframeGeometry.html",
+    "docs_url": "https://threejs.org/docs/#core/geometries:WireframeGeometry"
+  },
+  {
+    "path": "docs/pages/ArrowHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "ArrowHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ArrowHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:ArrowHelper"
+  },
+  {
+    "path": "docs/pages/AxesHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "AxesHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AxesHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:AxesHelper"
+  },
+  {
+    "path": "docs/pages/Box3Helper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "Box3Helper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Box3Helper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:Box3Helper"
+  },
+  {
+    "path": "docs/pages/BoxHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "BoxHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BoxHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:BoxHelper"
+  },
+  {
+    "path": "docs/pages/CameraHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "CameraHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CameraHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:CameraHelper"
+  },
+  {
+    "path": "docs/pages/DirectionalLightHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "DirectionalLightHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DirectionalLightHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:DirectionalLightHelper"
+  },
+  {
+    "path": "docs/pages/GridHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "GridHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GridHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:GridHelper"
+  },
+  {
+    "path": "docs/pages/HemisphereLightHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "HemisphereLightHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/HemisphereLightHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:HemisphereLightHelper"
+  },
+  {
+    "path": "docs/pages/PlaneHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "PlaneHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PlaneHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:PlaneHelper"
+  },
+  {
+    "path": "docs/pages/PointLightHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "PointLightHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PointLightHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:PointLightHelper"
+  },
+  {
+    "path": "docs/pages/PolarGridHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "PolarGridHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PolarGridHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:PolarGridHelper"
+  },
+  {
+    "path": "docs/pages/SkeletonHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "SkeletonHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SkeletonHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:SkeletonHelper"
+  },
+  {
+    "path": "docs/pages/SpotLightHelper.html",
+    "category": "core",
+    "subcategory": "helpers",
+    "name": "SpotLightHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SpotLightHelper.html",
+    "docs_url": "https://threejs.org/docs/#core/helpers:SpotLightHelper"
+  },
+  {
+    "path": "docs/pages/AmbientLight.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "AmbientLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AmbientLight.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:AmbientLight"
+  },
+  {
+    "path": "docs/pages/DirectionalLight.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "DirectionalLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DirectionalLight.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:DirectionalLight"
+  },
+  {
+    "path": "docs/pages/DirectionalLightShadow.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "DirectionalLightShadow",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DirectionalLightShadow.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:DirectionalLightShadow"
+  },
+  {
+    "path": "docs/pages/HemisphereLight.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "HemisphereLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/HemisphereLight.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:HemisphereLight"
+  },
+  {
+    "path": "docs/pages/IESSpotLight.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "IESSpotLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/IESSpotLight.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:IESSpotLight"
+  },
+  {
+    "path": "docs/pages/Light.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "Light",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Light.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:Light"
+  },
+  {
+    "path": "docs/pages/LightProbe.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "LightProbe",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LightProbe.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:LightProbe"
+  },
+  {
+    "path": "docs/pages/LightShadow.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "LightShadow",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LightShadow.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:LightShadow"
+  },
+  {
+    "path": "docs/pages/PointLight.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "PointLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PointLight.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:PointLight"
+  },
+  {
+    "path": "docs/pages/PointLightShadow.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "PointLightShadow",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PointLightShadow.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:PointLightShadow"
+  },
+  {
+    "path": "docs/pages/ProjectorLight.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "ProjectorLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ProjectorLight.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:ProjectorLight"
+  },
+  {
+    "path": "docs/pages/RectAreaLight.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "RectAreaLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RectAreaLight.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:RectAreaLight"
+  },
+  {
+    "path": "docs/pages/SpotLight.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "SpotLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SpotLight.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:SpotLight"
+  },
+  {
+    "path": "docs/pages/SpotLightShadow.html",
+    "category": "core",
+    "subcategory": "lights",
+    "name": "SpotLightShadow",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SpotLightShadow.html",
+    "docs_url": "https://threejs.org/docs/#core/lights:SpotLightShadow"
+  },
+  {
+    "path": "docs/pages/AnimationLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "AnimationLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnimationLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:AnimationLoader"
+  },
+  {
+    "path": "docs/pages/AudioLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "AudioLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AudioLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:AudioLoader"
+  },
+  {
+    "path": "docs/pages/BufferGeometryLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "BufferGeometryLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BufferGeometryLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:BufferGeometryLoader"
+  },
+  {
+    "path": "docs/pages/Cache.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "Cache",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Cache.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:Cache"
+  },
+  {
+    "path": "docs/pages/CompressedTextureLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "CompressedTextureLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CompressedTextureLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:CompressedTextureLoader"
+  },
+  {
+    "path": "docs/pages/CubeTextureLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "CubeTextureLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubeTextureLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:CubeTextureLoader"
+  },
+  {
+    "path": "docs/pages/DataTextureLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "DataTextureLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DataTextureLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:DataTextureLoader"
+  },
+  {
+    "path": "docs/pages/FileLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "FileLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FileLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:FileLoader"
+  },
+  {
+    "path": "docs/pages/ImageBitmapLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "ImageBitmapLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ImageBitmapLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:ImageBitmapLoader"
+  },
+  {
+    "path": "docs/pages/ImageLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "ImageLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ImageLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:ImageLoader"
+  },
+  {
+    "path": "docs/pages/Loader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "Loader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Loader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:Loader"
+  },
+  {
+    "path": "docs/pages/LoaderUtils.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "LoaderUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LoaderUtils.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:LoaderUtils"
+  },
+  {
+    "path": "docs/pages/LoadingManager.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "LoadingManager",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LoadingManager.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:LoadingManager"
+  },
+  {
+    "path": "docs/pages/MaterialLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "MaterialLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MaterialLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:MaterialLoader"
+  },
+  {
+    "path": "docs/pages/NodeLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "NodeLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NodeLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:NodeLoader"
+  },
+  {
+    "path": "docs/pages/NodeMaterialLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "NodeMaterialLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NodeMaterialLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:NodeMaterialLoader"
+  },
+  {
+    "path": "docs/pages/NodeObjectLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "NodeObjectLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NodeObjectLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:NodeObjectLoader"
+  },
+  {
+    "path": "docs/pages/ObjectLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "ObjectLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ObjectLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:ObjectLoader"
+  },
+  {
+    "path": "docs/pages/TextureLoader.html",
+    "category": "core",
+    "subcategory": "loaders",
+    "name": "TextureLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TextureLoader.html",
+    "docs_url": "https://threejs.org/docs/#core/loaders:TextureLoader"
+  },
+  {
+    "path": "docs/pages/Line2NodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "Line2NodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Line2NodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:Line2NodeMaterial"
+  },
+  {
+    "path": "docs/pages/LineBasicMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "LineBasicMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineBasicMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:LineBasicMaterial"
+  },
+  {
+    "path": "docs/pages/LineBasicNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "LineBasicNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineBasicNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:LineBasicNodeMaterial"
+  },
+  {
+    "path": "docs/pages/LineDashedMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "LineDashedMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineDashedMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:LineDashedMaterial"
+  },
+  {
+    "path": "docs/pages/LineDashedNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "LineDashedNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineDashedNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:LineDashedNodeMaterial"
+  },
+  {
+    "path": "docs/pages/Material.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "Material",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Material.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:Material"
+  },
+  {
+    "path": "docs/pages/MeshBasicMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshBasicMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshBasicMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshBasicMaterial"
+  },
+  {
+    "path": "docs/pages/MeshBasicNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshBasicNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshBasicNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshBasicNodeMaterial"
+  },
+  {
+    "path": "docs/pages/MeshDepthMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshDepthMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshDepthMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshDepthMaterial"
+  },
+  {
+    "path": "docs/pages/MeshDistanceMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshDistanceMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshDistanceMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshDistanceMaterial"
+  },
+  {
+    "path": "docs/pages/MeshLambertMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshLambertMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshLambertMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshLambertMaterial"
+  },
+  {
+    "path": "docs/pages/MeshLambertNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshLambertNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshLambertNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshLambertNodeMaterial"
+  },
+  {
+    "path": "docs/pages/MeshMatcapMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshMatcapMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshMatcapMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshMatcapMaterial"
+  },
+  {
+    "path": "docs/pages/MeshMatcapNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshMatcapNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshMatcapNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshMatcapNodeMaterial"
+  },
+  {
+    "path": "docs/pages/MeshNormalMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshNormalMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshNormalMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshNormalMaterial"
+  },
+  {
+    "path": "docs/pages/MeshNormalNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshNormalNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshNormalNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshNormalNodeMaterial"
+  },
+  {
+    "path": "docs/pages/MeshPhongMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshPhongMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshPhongMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshPhongMaterial"
+  },
+  {
+    "path": "docs/pages/MeshPhongNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshPhongNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshPhongNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshPhongNodeMaterial"
+  },
+  {
+    "path": "docs/pages/MeshPhysicalMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshPhysicalMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshPhysicalMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshPhysicalMaterial"
+  },
+  {
+    "path": "docs/pages/MeshPhysicalNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshPhysicalNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshPhysicalNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshPhysicalNodeMaterial"
+  },
+  {
+    "path": "docs/pages/MeshSSSNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshSSSNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshSSSNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshSSSNodeMaterial"
+  },
+  {
+    "path": "docs/pages/MeshStandardMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshStandardMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshStandardMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshStandardMaterial"
+  },
+  {
+    "path": "docs/pages/MeshStandardNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshStandardNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshStandardNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshStandardNodeMaterial"
+  },
+  {
+    "path": "docs/pages/MeshToonMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshToonMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshToonMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshToonMaterial"
+  },
+  {
+    "path": "docs/pages/MeshToonNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "MeshToonNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshToonNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:MeshToonNodeMaterial"
+  },
+  {
+    "path": "docs/pages/NodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "NodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:NodeMaterial"
+  },
+  {
+    "path": "docs/pages/NodeMaterialObserver.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "NodeMaterialObserver",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NodeMaterialObserver.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:NodeMaterialObserver"
+  },
+  {
+    "path": "docs/pages/PointsMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "PointsMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PointsMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:PointsMaterial"
+  },
+  {
+    "path": "docs/pages/PointsNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "PointsNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PointsNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:PointsNodeMaterial"
+  },
+  {
+    "path": "docs/pages/RawShaderMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "RawShaderMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RawShaderMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:RawShaderMaterial"
+  },
+  {
+    "path": "docs/pages/SSSLightingModel.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "SSSLightingModel",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SSSLightingModel.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:SSSLightingModel"
+  },
+  {
+    "path": "docs/pages/ShaderMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "ShaderMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShaderMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:ShaderMaterial"
+  },
+  {
+    "path": "docs/pages/ShadowMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "ShadowMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShadowMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:ShadowMaterial"
+  },
+  {
+    "path": "docs/pages/ShadowNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "ShadowNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShadowNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:ShadowNodeMaterial"
+  },
+  {
+    "path": "docs/pages/SpriteMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "SpriteMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SpriteMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:SpriteMaterial"
+  },
+  {
+    "path": "docs/pages/SpriteNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "SpriteNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SpriteNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:SpriteNodeMaterial"
+  },
+  {
+    "path": "docs/pages/VolumeNodeMaterial.html",
+    "category": "core",
+    "subcategory": "materials",
+    "name": "VolumeNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VolumeNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#core/materials:VolumeNodeMaterial"
+  },
+  {
+    "path": "docs/pages/BezierInterpolant.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "BezierInterpolant",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BezierInterpolant.html",
+    "docs_url": "https://threejs.org/docs/#core/math:BezierInterpolant"
+  },
+  {
+    "path": "docs/pages/Box2.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Box2",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Box2.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Box2"
+  },
+  {
+    "path": "docs/pages/Box3.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Box3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Box3.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Box3"
+  },
+  {
+    "path": "docs/pages/Color.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Color",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Color.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Color"
+  },
+  {
+    "path": "docs/pages/CubicInterpolant.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "CubicInterpolant",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubicInterpolant.html",
+    "docs_url": "https://threejs.org/docs/#core/math:CubicInterpolant"
+  },
+  {
+    "path": "docs/pages/Cylindrical.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Cylindrical",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Cylindrical.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Cylindrical"
+  },
+  {
+    "path": "docs/pages/DiscreteInterpolant.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "DiscreteInterpolant",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DiscreteInterpolant.html",
+    "docs_url": "https://threejs.org/docs/#core/math:DiscreteInterpolant"
+  },
+  {
+    "path": "docs/pages/Euler.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Euler",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Euler.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Euler"
+  },
+  {
+    "path": "docs/pages/Frustum.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Frustum",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Frustum.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Frustum"
+  },
+  {
+    "path": "docs/pages/FrustumArray.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "FrustumArray",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FrustumArray.html",
+    "docs_url": "https://threejs.org/docs/#core/math:FrustumArray"
+  },
+  {
+    "path": "docs/pages/Interpolant.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Interpolant",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Interpolant.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Interpolant"
+  },
+  {
+    "path": "docs/pages/Line3.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Line3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Line3.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Line3"
+  },
+  {
+    "path": "docs/pages/LinearInterpolant.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "LinearInterpolant",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LinearInterpolant.html",
+    "docs_url": "https://threejs.org/docs/#core/math:LinearInterpolant"
+  },
+  {
+    "path": "docs/pages/MathUtils.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "MathUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MathUtils.html",
+    "docs_url": "https://threejs.org/docs/#core/math:MathUtils"
+  },
+  {
+    "path": "docs/pages/Matrix2.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Matrix2",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Matrix2.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Matrix2"
+  },
+  {
+    "path": "docs/pages/Matrix3.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Matrix3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Matrix3.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Matrix3"
+  },
+  {
+    "path": "docs/pages/Matrix4.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Matrix4",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Matrix4.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Matrix4"
+  },
+  {
+    "path": "docs/pages/Plane.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Plane",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Plane.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Plane"
+  },
+  {
+    "path": "docs/pages/Quaternion.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Quaternion",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Quaternion.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Quaternion"
+  },
+  {
+    "path": "docs/pages/QuaternionLinearInterpolant.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "QuaternionLinearInterpolant",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/QuaternionLinearInterpolant.html",
+    "docs_url": "https://threejs.org/docs/#core/math:QuaternionLinearInterpolant"
+  },
+  {
+    "path": "docs/pages/Ray.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Ray",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Ray.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Ray"
+  },
+  {
+    "path": "docs/pages/Sphere.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Sphere",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Sphere.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Sphere"
+  },
+  {
+    "path": "docs/pages/Spherical.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Spherical",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Spherical.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Spherical"
+  },
+  {
+    "path": "docs/pages/SphericalHarmonics3.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "SphericalHarmonics3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SphericalHarmonics3.html",
+    "docs_url": "https://threejs.org/docs/#core/math:SphericalHarmonics3"
+  },
+  {
+    "path": "docs/pages/Triangle.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Triangle",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Triangle.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Triangle"
+  },
+  {
+    "path": "docs/pages/Vector2.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Vector2",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Vector2.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Vector2"
+  },
+  {
+    "path": "docs/pages/Vector3.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Vector3",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Vector3.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Vector3"
+  },
+  {
+    "path": "docs/pages/Vector4.html",
+    "category": "core",
+    "subcategory": "math",
+    "name": "Vector4",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Vector4.html",
+    "docs_url": "https://threejs.org/docs/#core/math:Vector4"
+  },
+  {
+    "path": "docs/pages/BatchedMesh.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "BatchedMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BatchedMesh.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:BatchedMesh"
+  },
+  {
+    "path": "docs/pages/Bone.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "Bone",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Bone.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:Bone"
+  },
+  {
+    "path": "docs/pages/ClippingGroup.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "ClippingGroup",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ClippingGroup.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:ClippingGroup"
+  },
+  {
+    "path": "docs/pages/Group.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "Group",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Group.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:Group"
+  },
+  {
+    "path": "docs/pages/InstancedMesh.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "InstancedMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InstancedMesh.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:InstancedMesh"
+  },
+  {
+    "path": "docs/pages/LOD.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "LOD",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LOD.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:LOD"
+  },
+  {
+    "path": "docs/pages/Line.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "Line",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Line.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:Line"
+  },
+  {
+    "path": "docs/pages/LineLoop.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "LineLoop",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineLoop.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:LineLoop"
+  },
+  {
+    "path": "docs/pages/LineSegments.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "LineSegments",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineSegments.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:LineSegments"
+  },
+  {
+    "path": "docs/pages/Mesh.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "Mesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Mesh.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:Mesh"
+  },
+  {
+    "path": "docs/pages/Points.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "Points",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Points.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:Points"
+  },
+  {
+    "path": "docs/pages/Skeleton.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "Skeleton",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Skeleton.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:Skeleton"
+  },
+  {
+    "path": "docs/pages/SkinnedMesh.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "SkinnedMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SkinnedMesh.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:SkinnedMesh"
+  },
+  {
+    "path": "docs/pages/Sprite.html",
+    "category": "core",
+    "subcategory": "objects",
+    "name": "Sprite",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Sprite.html",
+    "docs_url": "https://threejs.org/docs/#core/objects:Sprite"
+  },
+  {
+    "path": "docs/pages/BlendMode.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "BlendMode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BlendMode.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:BlendMode"
+  },
+  {
+    "path": "docs/pages/BundleGroup.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "BundleGroup",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BundleGroup.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:BundleGroup"
+  },
+  {
+    "path": "docs/pages/CanvasTarget.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "CanvasTarget",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CanvasTarget.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:CanvasTarget"
+  },
+  {
+    "path": "docs/pages/CubeRenderTarget.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "CubeRenderTarget",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubeRenderTarget.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:CubeRenderTarget"
+  },
+  {
+    "path": "docs/pages/GLSLNodeBuilder.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "GLSLNodeBuilder",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GLSLNodeBuilder.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:GLSLNodeBuilder"
+  },
+  {
+    "path": "docs/pages/IndirectStorageBufferAttribute.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "IndirectStorageBufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/IndirectStorageBufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:IndirectStorageBufferAttribute"
+  },
+  {
+    "path": "docs/pages/Info.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "Info",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Info.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:Info"
+  },
+  {
+    "path": "docs/pages/InspectorBase.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "InspectorBase",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InspectorBase.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:InspectorBase"
+  },
+  {
+    "path": "docs/pages/PostProcessing.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "PostProcessing",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PostProcessing.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:PostProcessing"
+  },
+  {
+    "path": "docs/pages/QuadMesh.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "QuadMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/QuadMesh.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:QuadMesh"
+  },
+  {
+    "path": "docs/pages/RenderPipeline.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "RenderPipeline",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RenderPipeline.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:RenderPipeline"
+  },
+  {
+    "path": "docs/pages/Renderer.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "Renderer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Renderer.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:Renderer"
+  },
+  {
+    "path": "docs/pages/Storage3DTexture.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "Storage3DTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Storage3DTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:Storage3DTexture"
+  },
+  {
+    "path": "docs/pages/StorageArrayTexture.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "StorageArrayTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/StorageArrayTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:StorageArrayTexture"
+  },
+  {
+    "path": "docs/pages/StorageBufferAttribute.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "StorageBufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/StorageBufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:StorageBufferAttribute"
+  },
+  {
+    "path": "docs/pages/StorageInstancedBufferAttribute.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "StorageInstancedBufferAttribute",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/StorageInstancedBufferAttribute.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:StorageInstancedBufferAttribute"
+  },
+  {
+    "path": "docs/pages/StorageTexture.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "StorageTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/StorageTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:StorageTexture"
+  },
+  {
+    "path": "docs/pages/TimestampQueryPool.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "TimestampQueryPool",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TimestampQueryPool.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:TimestampQueryPool"
+  },
+  {
+    "path": "docs/pages/WGSLNodeBuilder.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WGSLNodeBuilder",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WGSLNodeBuilder.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WGSLNodeBuilder"
+  },
+  {
+    "path": "docs/pages/WGSLNodeFunction.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WGSLNodeFunction",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WGSLNodeFunction.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WGSLNodeFunction"
+  },
+  {
+    "path": "docs/pages/WGSLNodeParser.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WGSLNodeParser",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WGSLNodeParser.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WGSLNodeParser"
+  },
+  {
+    "path": "docs/pages/WebGL3DRenderTarget.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebGL3DRenderTarget",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGL3DRenderTarget.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebGL3DRenderTarget"
+  },
+  {
+    "path": "docs/pages/WebGLArrayRenderTarget.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebGLArrayRenderTarget",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGLArrayRenderTarget.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebGLArrayRenderTarget"
+  },
+  {
+    "path": "docs/pages/WebGLCubeRenderTarget.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebGLCubeRenderTarget",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGLCubeRenderTarget.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebGLCubeRenderTarget"
+  },
+  {
+    "path": "docs/pages/WebGLRenderTarget.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebGLRenderTarget",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGLRenderTarget.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebGLRenderTarget"
+  },
+  {
+    "path": "docs/pages/WebGLRenderer.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebGLRenderer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGLRenderer.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebGLRenderer"
+  },
+  {
+    "path": "docs/pages/WebGLTimestampQueryPool.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebGLTimestampQueryPool",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGLTimestampQueryPool.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebGLTimestampQueryPool"
+  },
+  {
+    "path": "docs/pages/WebGPURenderer.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebGPURenderer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGPURenderer.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebGPURenderer"
+  },
+  {
+    "path": "docs/pages/WebGPUTimestampQueryPool.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebGPUTimestampQueryPool",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGPUTimestampQueryPool.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebGPUTimestampQueryPool"
+  },
+  {
+    "path": "docs/pages/WebXRDepthSensing.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebXRDepthSensing",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebXRDepthSensing.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebXRDepthSensing"
+  },
+  {
+    "path": "docs/pages/WebXRManager.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "WebXRManager",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebXRManager.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:WebXRManager"
+  },
+  {
+    "path": "docs/pages/XRManager.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "XRManager",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRManager.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:XRManager"
+  },
+  {
+    "path": "docs/pages/module-UniformsUtils.html",
+    "category": "core",
+    "subcategory": "renderers",
+    "name": "module-UniformsUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-UniformsUtils.html",
+    "docs_url": "https://threejs.org/docs/#core/renderers:module-UniformsUtils"
+  },
+  {
+    "path": "docs/pages/Fog.html",
+    "category": "core",
+    "subcategory": "scenes",
+    "name": "Fog",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Fog.html",
+    "docs_url": "https://threejs.org/docs/#core/scenes:Fog"
+  },
+  {
+    "path": "docs/pages/FogExp2.html",
+    "category": "core",
+    "subcategory": "scenes",
+    "name": "FogExp2",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FogExp2.html",
+    "docs_url": "https://threejs.org/docs/#core/scenes:FogExp2"
+  },
+  {
+    "path": "docs/pages/Scene.html",
+    "category": "core",
+    "subcategory": "scenes",
+    "name": "Scene",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Scene.html",
+    "docs_url": "https://threejs.org/docs/#core/scenes:Scene"
+  },
+  {
+    "path": "docs/pages/CanvasTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "CanvasTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CanvasTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:CanvasTexture"
+  },
+  {
+    "path": "docs/pages/CompressedArrayTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "CompressedArrayTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CompressedArrayTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:CompressedArrayTexture"
+  },
+  {
+    "path": "docs/pages/CompressedCubeTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "CompressedCubeTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CompressedCubeTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:CompressedCubeTexture"
+  },
+  {
+    "path": "docs/pages/CompressedTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "CompressedTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CompressedTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:CompressedTexture"
+  },
+  {
+    "path": "docs/pages/CubeDepthTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "CubeDepthTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubeDepthTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:CubeDepthTexture"
+  },
+  {
+    "path": "docs/pages/CubeTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "CubeTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubeTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:CubeTexture"
+  },
+  {
+    "path": "docs/pages/Data3DTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "Data3DTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Data3DTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:Data3DTexture"
+  },
+  {
+    "path": "docs/pages/DataArrayTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "DataArrayTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DataArrayTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:DataArrayTexture"
+  },
+  {
+    "path": "docs/pages/DataTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "DataTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DataTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:DataTexture"
+  },
+  {
+    "path": "docs/pages/DepthTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "DepthTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DepthTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:DepthTexture"
+  },
+  {
+    "path": "docs/pages/ExternalTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "ExternalTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ExternalTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:ExternalTexture"
+  },
+  {
+    "path": "docs/pages/FramebufferTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "FramebufferTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FramebufferTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:FramebufferTexture"
+  },
+  {
+    "path": "docs/pages/Source.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "Source",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Source.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:Source"
+  },
+  {
+    "path": "docs/pages/Texture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "Texture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Texture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:Texture"
+  },
+  {
+    "path": "docs/pages/VideoFrameTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "VideoFrameTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VideoFrameTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:VideoFrameTexture"
+  },
+  {
+    "path": "docs/pages/VideoTexture.html",
+    "category": "core",
+    "subcategory": "textures",
+    "name": "VideoTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VideoTexture.html",
+    "docs_url": "https://threejs.org/docs/#core/textures:VideoTexture"
+  },
+  {
+    "path": "docs/pages/AnimationClipCreator.html",
+    "category": "addons",
+    "subcategory": "animation",
+    "name": "AnimationClipCreator",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnimationClipCreator.html",
+    "docs_url": "https://threejs.org/docs/#addons/animation:AnimationClipCreator"
+  },
+  {
+    "path": "docs/pages/CCDIKHelper.html",
+    "category": "addons",
+    "subcategory": "animation",
+    "name": "CCDIKHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CCDIKHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/animation:CCDIKHelper"
+  },
+  {
+    "path": "docs/pages/CCDIKSolver.html",
+    "category": "addons",
+    "subcategory": "animation",
+    "name": "CCDIKSolver",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CCDIKSolver.html",
+    "docs_url": "https://threejs.org/docs/#addons/animation:CCDIKSolver"
+  },
+  {
+    "path": "docs/pages/WebGL.html",
+    "category": "addons",
+    "subcategory": "capabilities",
+    "name": "WebGL",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGL.html",
+    "docs_url": "https://threejs.org/docs/#addons/capabilities:WebGL"
+  },
+  {
+    "path": "docs/pages/WebGPU.html",
+    "category": "addons",
+    "subcategory": "capabilities",
+    "name": "WebGPU",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WebGPU.html",
+    "docs_url": "https://threejs.org/docs/#addons/capabilities:WebGPU"
+  },
+  {
+    "path": "docs/pages/ArcballControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "ArcballControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ArcballControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:ArcballControls"
+  },
+  {
+    "path": "docs/pages/DragControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "DragControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DragControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:DragControls"
+  },
+  {
+    "path": "docs/pages/FirstPersonControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "FirstPersonControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FirstPersonControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:FirstPersonControls"
+  },
+  {
+    "path": "docs/pages/FlyControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "FlyControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FlyControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:FlyControls"
+  },
+  {
+    "path": "docs/pages/MapControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "MapControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MapControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:MapControls"
+  },
+  {
+    "path": "docs/pages/OrbitControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "OrbitControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OrbitControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:OrbitControls"
+  },
+  {
+    "path": "docs/pages/PointerLockControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "PointerLockControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PointerLockControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:PointerLockControls"
+  },
+  {
+    "path": "docs/pages/TrackballControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "TrackballControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TrackballControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:TrackballControls"
+  },
+  {
+    "path": "docs/pages/TransformControls.html",
+    "category": "addons",
+    "subcategory": "controls",
+    "name": "TransformControls",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TransformControls.html",
+    "docs_url": "https://threejs.org/docs/#addons/controls:TransformControls"
+  },
+  {
+    "path": "docs/pages/CSM.html",
+    "category": "addons",
+    "subcategory": "csm",
+    "name": "CSM",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSM.html",
+    "docs_url": "https://threejs.org/docs/#addons/csm:CSM"
+  },
+  {
+    "path": "docs/pages/CSMFrustum.html",
+    "category": "addons",
+    "subcategory": "csm",
+    "name": "CSMFrustum",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSMFrustum.html",
+    "docs_url": "https://threejs.org/docs/#addons/csm:CSMFrustum"
+  },
+  {
+    "path": "docs/pages/CSMHelper.html",
+    "category": "addons",
+    "subcategory": "csm",
+    "name": "CSMHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSMHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/csm:CSMHelper"
+  },
+  {
+    "path": "docs/pages/CSMShadowNode.html",
+    "category": "addons",
+    "subcategory": "csm",
+    "name": "CSMShadowNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSMShadowNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/csm:CSMShadowNode"
+  },
+  {
+    "path": "docs/pages/module-CSMShader.html",
+    "category": "addons",
+    "subcategory": "csm",
+    "name": "module-CSMShader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-CSMShader.html",
+    "docs_url": "https://threejs.org/docs/#addons/csm:module-CSMShader"
+  },
+  {
+    "path": "docs/pages/CinquefoilKnot.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "CinquefoilKnot",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CinquefoilKnot.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:CinquefoilKnot"
+  },
+  {
+    "path": "docs/pages/DecoratedTorusKnot4a.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "DecoratedTorusKnot4a",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DecoratedTorusKnot4a.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:DecoratedTorusKnot4a"
+  },
+  {
+    "path": "docs/pages/DecoratedTorusKnot4b.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "DecoratedTorusKnot4b",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DecoratedTorusKnot4b.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:DecoratedTorusKnot4b"
+  },
+  {
+    "path": "docs/pages/DecoratedTorusKnot5a.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "DecoratedTorusKnot5a",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DecoratedTorusKnot5a.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:DecoratedTorusKnot5a"
+  },
+  {
+    "path": "docs/pages/DecoratedTorusKnot5c.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "DecoratedTorusKnot5c",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DecoratedTorusKnot5c.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:DecoratedTorusKnot5c"
+  },
+  {
+    "path": "docs/pages/FigureEightPolynomialKnot.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "FigureEightPolynomialKnot",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FigureEightPolynomialKnot.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:FigureEightPolynomialKnot"
+  },
+  {
+    "path": "docs/pages/GrannyKnot.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "GrannyKnot",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GrannyKnot.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:GrannyKnot"
+  },
+  {
+    "path": "docs/pages/HeartCurve.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "HeartCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/HeartCurve.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:HeartCurve"
+  },
+  {
+    "path": "docs/pages/HelixCurve.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "HelixCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/HelixCurve.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:HelixCurve"
+  },
+  {
+    "path": "docs/pages/KnotCurve.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "KnotCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/KnotCurve.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:KnotCurve"
+  },
+  {
+    "path": "docs/pages/NURBSCurve.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "NURBSCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NURBSCurve.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:NURBSCurve"
+  },
+  {
+    "path": "docs/pages/NURBSSurface.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "NURBSSurface",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NURBSSurface.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:NURBSSurface"
+  },
+  {
+    "path": "docs/pages/NURBSVolume.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "NURBSVolume",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NURBSVolume.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:NURBSVolume"
+  },
+  {
+    "path": "docs/pages/TorusKnot.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "TorusKnot",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TorusKnot.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:TorusKnot"
+  },
+  {
+    "path": "docs/pages/TrefoilKnot.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "TrefoilKnot",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TrefoilKnot.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:TrefoilKnot"
+  },
+  {
+    "path": "docs/pages/TrefoilPolynomialKnot.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "TrefoilPolynomialKnot",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TrefoilPolynomialKnot.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:TrefoilPolynomialKnot"
+  },
+  {
+    "path": "docs/pages/VivianiCurve.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "VivianiCurve",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VivianiCurve.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:VivianiCurve"
+  },
+  {
+    "path": "docs/pages/module-NURBSUtils.html",
+    "category": "addons",
+    "subcategory": "curves",
+    "name": "module-NURBSUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-NURBSUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/curves:module-NURBSUtils"
+  },
+  {
+    "path": "docs/pages/AnaglyphEffect.html",
+    "category": "addons",
+    "subcategory": "effects",
+    "name": "AnaglyphEffect",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnaglyphEffect.html",
+    "docs_url": "https://threejs.org/docs/#addons/effects:AnaglyphEffect"
+  },
+  {
+    "path": "docs/pages/AsciiEffect.html",
+    "category": "addons",
+    "subcategory": "effects",
+    "name": "AsciiEffect",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AsciiEffect.html",
+    "docs_url": "https://threejs.org/docs/#addons/effects:AsciiEffect"
+  },
+  {
+    "path": "docs/pages/OutlineEffect.html",
+    "category": "addons",
+    "subcategory": "effects",
+    "name": "OutlineEffect",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OutlineEffect.html",
+    "docs_url": "https://threejs.org/docs/#addons/effects:OutlineEffect"
+  },
+  {
+    "path": "docs/pages/ParallaxBarrierEffect.html",
+    "category": "addons",
+    "subcategory": "effects",
+    "name": "ParallaxBarrierEffect",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ParallaxBarrierEffect.html",
+    "docs_url": "https://threejs.org/docs/#addons/effects:ParallaxBarrierEffect"
+  },
+  {
+    "path": "docs/pages/StereoEffect.html",
+    "category": "addons",
+    "subcategory": "effects",
+    "name": "StereoEffect",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/StereoEffect.html",
+    "docs_url": "https://threejs.org/docs/#addons/effects:StereoEffect"
+  },
+  {
+    "path": "docs/pages/ColorEnvironment.html",
+    "category": "addons",
+    "subcategory": "environments",
+    "name": "ColorEnvironment",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ColorEnvironment.html",
+    "docs_url": "https://threejs.org/docs/#addons/environments:ColorEnvironment"
+  },
+  {
+    "path": "docs/pages/DebugEnvironment.html",
+    "category": "addons",
+    "subcategory": "environments",
+    "name": "DebugEnvironment",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DebugEnvironment.html",
+    "docs_url": "https://threejs.org/docs/#addons/environments:DebugEnvironment"
+  },
+  {
+    "path": "docs/pages/RoomEnvironment.html",
+    "category": "addons",
+    "subcategory": "environments",
+    "name": "RoomEnvironment",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RoomEnvironment.html",
+    "docs_url": "https://threejs.org/docs/#addons/environments:RoomEnvironment"
+  },
+  {
+    "path": "docs/pages/DRACOExporter.html",
+    "category": "addons",
+    "subcategory": "exporters",
+    "name": "DRACOExporter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DRACOExporter.html",
+    "docs_url": "https://threejs.org/docs/#addons/exporters:DRACOExporter"
+  },
+  {
+    "path": "docs/pages/EXRExporter.html",
+    "category": "addons",
+    "subcategory": "exporters",
+    "name": "EXRExporter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EXRExporter.html",
+    "docs_url": "https://threejs.org/docs/#addons/exporters:EXRExporter"
+  },
+  {
+    "path": "docs/pages/GLTFExporter.html",
+    "category": "addons",
+    "subcategory": "exporters",
+    "name": "GLTFExporter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GLTFExporter.html",
+    "docs_url": "https://threejs.org/docs/#addons/exporters:GLTFExporter"
+  },
+  {
+    "path": "docs/pages/KTX2Exporter.html",
+    "category": "addons",
+    "subcategory": "exporters",
+    "name": "KTX2Exporter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/KTX2Exporter.html",
+    "docs_url": "https://threejs.org/docs/#addons/exporters:KTX2Exporter"
+  },
+  {
+    "path": "docs/pages/OBJExporter.html",
+    "category": "addons",
+    "subcategory": "exporters",
+    "name": "OBJExporter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OBJExporter.html",
+    "docs_url": "https://threejs.org/docs/#addons/exporters:OBJExporter"
+  },
+  {
+    "path": "docs/pages/PLYExporter.html",
+    "category": "addons",
+    "subcategory": "exporters",
+    "name": "PLYExporter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PLYExporter.html",
+    "docs_url": "https://threejs.org/docs/#addons/exporters:PLYExporter"
+  },
+  {
+    "path": "docs/pages/STLExporter.html",
+    "category": "addons",
+    "subcategory": "exporters",
+    "name": "STLExporter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/STLExporter.html",
+    "docs_url": "https://threejs.org/docs/#addons/exporters:STLExporter"
+  },
+  {
+    "path": "docs/pages/USDZExporter.html",
+    "category": "addons",
+    "subcategory": "exporters",
+    "name": "USDZExporter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/USDZExporter.html",
+    "docs_url": "https://threejs.org/docs/#addons/exporters:USDZExporter"
+  },
+  {
+    "path": "docs/pages/BoxLineGeometry.html",
+    "category": "addons",
+    "subcategory": "geometries",
+    "name": "BoxLineGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BoxLineGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/geometries:BoxLineGeometry"
+  },
+  {
+    "path": "docs/pages/ConvexGeometry.html",
+    "category": "addons",
+    "subcategory": "geometries",
+    "name": "ConvexGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ConvexGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/geometries:ConvexGeometry"
+  },
+  {
+    "path": "docs/pages/DecalGeometry.html",
+    "category": "addons",
+    "subcategory": "geometries",
+    "name": "DecalGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DecalGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/geometries:DecalGeometry"
+  },
+  {
+    "path": "docs/pages/ParametricGeometry.html",
+    "category": "addons",
+    "subcategory": "geometries",
+    "name": "ParametricGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ParametricGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/geometries:ParametricGeometry"
+  },
+  {
+    "path": "docs/pages/RoundedBoxGeometry.html",
+    "category": "addons",
+    "subcategory": "geometries",
+    "name": "RoundedBoxGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RoundedBoxGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/geometries:RoundedBoxGeometry"
+  },
+  {
+    "path": "docs/pages/TeapotGeometry.html",
+    "category": "addons",
+    "subcategory": "geometries",
+    "name": "TeapotGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TeapotGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/geometries:TeapotGeometry"
+  },
+  {
+    "path": "docs/pages/TextGeometry.html",
+    "category": "addons",
+    "subcategory": "geometries",
+    "name": "TextGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TextGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/geometries:TextGeometry"
+  },
+  {
+    "path": "docs/pages/module-ParametricFunctions.html",
+    "category": "addons",
+    "subcategory": "geometries",
+    "name": "module-ParametricFunctions",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-ParametricFunctions.html",
+    "docs_url": "https://threejs.org/docs/#addons/geometries:module-ParametricFunctions"
+  },
+  {
+    "path": "docs/pages/BitonicSort_BitonicSort.html",
+    "category": "addons",
+    "subcategory": "gpgpu",
+    "name": "BitonicSort_BitonicSort",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BitonicSort_BitonicSort.html",
+    "docs_url": "https://threejs.org/docs/#addons/gpgpu:BitonicSort_BitonicSort"
+  },
+  {
+    "path": "docs/pages/AnimationPathHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "AnimationPathHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnimationPathHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:AnimationPathHelper"
+  },
+  {
+    "path": "docs/pages/LightProbeHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "LightProbeHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LightProbeHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:LightProbeHelper"
+  },
+  {
+    "path": "docs/pages/OctreeHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "OctreeHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OctreeHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:OctreeHelper"
+  },
+  {
+    "path": "docs/pages/PositionalAudioHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "PositionalAudioHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PositionalAudioHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:PositionalAudioHelper"
+  },
+  {
+    "path": "docs/pages/RapierHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "RapierHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RapierHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:RapierHelper"
+  },
+  {
+    "path": "docs/pages/RectAreaLightHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "RectAreaLightHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RectAreaLightHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:RectAreaLightHelper"
+  },
+  {
+    "path": "docs/pages/TextureHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "TextureHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TextureHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:TextureHelper"
+  },
+  {
+    "path": "docs/pages/VertexNormalsHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "VertexNormalsHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VertexNormalsHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:VertexNormalsHelper"
+  },
+  {
+    "path": "docs/pages/VertexTangentsHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "VertexTangentsHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VertexTangentsHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:VertexTangentsHelper"
+  },
+  {
+    "path": "docs/pages/ViewHelper.html",
+    "category": "addons",
+    "subcategory": "helpers",
+    "name": "ViewHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ViewHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/helpers:ViewHelper"
+  },
+  {
+    "path": "docs/pages/Tab.html",
+    "category": "addons",
+    "subcategory": "inspector",
+    "name": "Tab",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Tab.html",
+    "docs_url": "https://threejs.org/docs/#addons/inspector:Tab"
+  },
+  {
+    "path": "docs/pages/HTMLMesh.html",
+    "category": "addons",
+    "subcategory": "interactive",
+    "name": "HTMLMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/HTMLMesh.html",
+    "docs_url": "https://threejs.org/docs/#addons/interactive:HTMLMesh"
+  },
+  {
+    "path": "docs/pages/InteractiveGroup.html",
+    "category": "addons",
+    "subcategory": "interactive",
+    "name": "InteractiveGroup",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InteractiveGroup.html",
+    "docs_url": "https://threejs.org/docs/#addons/interactive:InteractiveGroup"
+  },
+  {
+    "path": "docs/pages/SelectionBox.html",
+    "category": "addons",
+    "subcategory": "interactive",
+    "name": "SelectionBox",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SelectionBox.html",
+    "docs_url": "https://threejs.org/docs/#addons/interactive:SelectionBox"
+  },
+  {
+    "path": "docs/pages/SelectionHelper.html",
+    "category": "addons",
+    "subcategory": "interactive",
+    "name": "SelectionHelper",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SelectionHelper.html",
+    "docs_url": "https://threejs.org/docs/#addons/interactive:SelectionHelper"
+  },
+  {
+    "path": "docs/pages/TiledLighting.html",
+    "category": "addons",
+    "subcategory": "lighting",
+    "name": "TiledLighting",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TiledLighting.html",
+    "docs_url": "https://threejs.org/docs/#addons/lighting:TiledLighting"
+  },
+  {
+    "path": "docs/pages/LightProbeGenerator.html",
+    "category": "addons",
+    "subcategory": "lights",
+    "name": "LightProbeGenerator",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LightProbeGenerator.html",
+    "docs_url": "https://threejs.org/docs/#addons/lights:LightProbeGenerator"
+  },
+  {
+    "path": "docs/pages/RectAreaLightTexturesLib.html",
+    "category": "addons",
+    "subcategory": "lights",
+    "name": "RectAreaLightTexturesLib",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RectAreaLightTexturesLib.html",
+    "docs_url": "https://threejs.org/docs/#addons/lights:RectAreaLightTexturesLib"
+  },
+  {
+    "path": "docs/pages/RectAreaLightUniformsLib.html",
+    "category": "addons",
+    "subcategory": "lights",
+    "name": "RectAreaLightUniformsLib",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RectAreaLightUniformsLib.html",
+    "docs_url": "https://threejs.org/docs/#addons/lights:RectAreaLightUniformsLib"
+  },
+  {
+    "path": "docs/pages/Line2.html",
+    "category": "addons",
+    "subcategory": "lines",
+    "name": "Line2",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Line2.html",
+    "docs_url": "https://threejs.org/docs/#addons/lines:Line2"
+  },
+  {
+    "path": "docs/pages/LineGeometry.html",
+    "category": "addons",
+    "subcategory": "lines",
+    "name": "LineGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/lines:LineGeometry"
+  },
+  {
+    "path": "docs/pages/LineMaterial.html",
+    "category": "addons",
+    "subcategory": "lines",
+    "name": "LineMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineMaterial.html",
+    "docs_url": "https://threejs.org/docs/#addons/lines:LineMaterial"
+  },
+  {
+    "path": "docs/pages/LineSegments2.html",
+    "category": "addons",
+    "subcategory": "lines",
+    "name": "LineSegments2",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineSegments2.html",
+    "docs_url": "https://threejs.org/docs/#addons/lines:LineSegments2"
+  },
+  {
+    "path": "docs/pages/LineSegmentsGeometry.html",
+    "category": "addons",
+    "subcategory": "lines",
+    "name": "LineSegmentsGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LineSegmentsGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/lines:LineSegmentsGeometry"
+  },
+  {
+    "path": "docs/pages/Wireframe.html",
+    "category": "addons",
+    "subcategory": "lines",
+    "name": "Wireframe",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Wireframe.html",
+    "docs_url": "https://threejs.org/docs/#addons/lines:Wireframe"
+  },
+  {
+    "path": "docs/pages/WireframeGeometry2.html",
+    "category": "addons",
+    "subcategory": "lines",
+    "name": "WireframeGeometry2",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WireframeGeometry2.html",
+    "docs_url": "https://threejs.org/docs/#addons/lines:WireframeGeometry2"
+  },
+  {
+    "path": "docs/pages/AMFLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "AMFLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AMFLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:AMFLoader"
+  },
+  {
+    "path": "docs/pages/BVHLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "BVHLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BVHLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:BVHLoader"
+  },
+  {
+    "path": "docs/pages/ColladaComposer.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "ColladaComposer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ColladaComposer.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:ColladaComposer"
+  },
+  {
+    "path": "docs/pages/ColladaLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "ColladaLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ColladaLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:ColladaLoader"
+  },
+  {
+    "path": "docs/pages/ColladaParser.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "ColladaParser",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ColladaParser.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:ColladaParser"
+  },
+  {
+    "path": "docs/pages/DDSLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "DDSLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DDSLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:DDSLoader"
+  },
+  {
+    "path": "docs/pages/DRACOLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "DRACOLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DRACOLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:DRACOLoader"
+  },
+  {
+    "path": "docs/pages/EXRLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "EXRLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EXRLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:EXRLoader"
+  },
+  {
+    "path": "docs/pages/FBXLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "FBXLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FBXLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:FBXLoader"
+  },
+  {
+    "path": "docs/pages/GLTFLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "GLTFLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GLTFLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:GLTFLoader"
+  },
+  {
+    "path": "docs/pages/KTX2Loader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "KTX2Loader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/KTX2Loader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:KTX2Loader"
+  },
+  {
+    "path": "docs/pages/KTXLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "KTXLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/KTXLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:KTXLoader"
+  },
+  {
+    "path": "docs/pages/LDrawLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "LDrawLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LDrawLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:LDrawLoader"
+  },
+  {
+    "path": "docs/pages/LUT3dlLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "LUT3dlLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LUT3dlLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:LUT3dlLoader"
+  },
+  {
+    "path": "docs/pages/LUTCubeLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "LUTCubeLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LUTCubeLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:LUTCubeLoader"
+  },
+  {
+    "path": "docs/pages/LottieLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "LottieLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LottieLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:LottieLoader"
+  },
+  {
+    "path": "docs/pages/MD2Loader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "MD2Loader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MD2Loader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:MD2Loader"
+  },
+  {
+    "path": "docs/pages/MDDLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "MDDLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MDDLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:MDDLoader"
+  },
+  {
+    "path": "docs/pages/MMDLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "MMDLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MMDLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:MMDLoader"
+  },
+  {
+    "path": "docs/pages/MTLLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "MTLLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MTLLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:MTLLoader"
+  },
+  {
+    "path": "docs/pages/NRRDLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "NRRDLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/NRRDLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:NRRDLoader"
+  },
+  {
+    "path": "docs/pages/OBJLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "OBJLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OBJLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:OBJLoader"
+  },
+  {
+    "path": "docs/pages/PCDLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "PCDLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PCDLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:PCDLoader"
+  },
+  {
+    "path": "docs/pages/PDBLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "PDBLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PDBLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:PDBLoader"
+  },
+  {
+    "path": "docs/pages/PLYLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "PLYLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PLYLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:PLYLoader"
+  },
+  {
+    "path": "docs/pages/PRWMLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "PRWMLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PRWMLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:PRWMLoader"
+  },
+  {
+    "path": "docs/pages/RGBELoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "RGBELoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RGBELoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:RGBELoader"
+  },
+  {
+    "path": "docs/pages/RGBMLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "RGBMLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RGBMLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:RGBMLoader"
+  },
+  {
+    "path": "docs/pages/STLLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "STLLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/STLLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:STLLoader"
+  },
+  {
+    "path": "docs/pages/SVGLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "SVGLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SVGLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:SVGLoader"
+  },
+  {
+    "path": "docs/pages/TDSLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "TDSLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TDSLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:TDSLoader"
+  },
+  {
+    "path": "docs/pages/TGALoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "TGALoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TGALoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:TGALoader"
+  },
+  {
+    "path": "docs/pages/TTFLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "TTFLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TTFLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:TTFLoader"
+  },
+  {
+    "path": "docs/pages/TiltLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "TiltLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TiltLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:TiltLoader"
+  },
+  {
+    "path": "docs/pages/USDZLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "USDZLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/USDZLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:USDZLoader"
+  },
+  {
+    "path": "docs/pages/VOXLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "VOXLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VOXLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:VOXLoader"
+  },
+  {
+    "path": "docs/pages/VRMLLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "VRMLLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VRMLLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:VRMLLoader"
+  },
+  {
+    "path": "docs/pages/VTKLoader.html",
+    "category": "addons",
+    "subcategory": "loaders",
+    "name": "VTKLoader",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VTKLoader.html",
+    "docs_url": "https://threejs.org/docs/#addons/loaders:VTKLoader"
+  },
+  {
+    "path": "docs/pages/LDrawConditionalLineMaterial.html",
+    "category": "addons",
+    "subcategory": "materials",
+    "name": "LDrawConditionalLineMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LDrawConditionalLineMaterial.html",
+    "docs_url": "https://threejs.org/docs/#addons/materials:LDrawConditionalLineMaterial"
+  },
+  {
+    "path": "docs/pages/WoodNodeMaterial.html",
+    "category": "addons",
+    "subcategory": "materials",
+    "name": "WoodNodeMaterial",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WoodNodeMaterial.html",
+    "docs_url": "https://threejs.org/docs/#addons/materials:WoodNodeMaterial"
+  },
+  {
+    "path": "docs/pages/Capsule.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "Capsule",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Capsule.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:Capsule"
+  },
+  {
+    "path": "docs/pages/ColorConverter.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "ColorConverter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ColorConverter.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:ColorConverter"
+  },
+  {
+    "path": "docs/pages/ConvexHull.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "ConvexHull",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ConvexHull.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:ConvexHull"
+  },
+  {
+    "path": "docs/pages/ImprovedNoise.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "ImprovedNoise",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ImprovedNoise.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:ImprovedNoise"
+  },
+  {
+    "path": "docs/pages/Lut.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "Lut",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Lut.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:Lut"
+  },
+  {
+    "path": "docs/pages/MeshSurfaceSampler.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "MeshSurfaceSampler",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MeshSurfaceSampler.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:MeshSurfaceSampler"
+  },
+  {
+    "path": "docs/pages/OBB.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "OBB",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OBB.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:OBB"
+  },
+  {
+    "path": "docs/pages/Octree.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "Octree",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Octree.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:Octree"
+  },
+  {
+    "path": "docs/pages/SimplexNoise.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "SimplexNoise",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SimplexNoise.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:SimplexNoise"
+  },
+  {
+    "path": "docs/pages/module-ColorSpaces.html",
+    "category": "addons",
+    "subcategory": "math",
+    "name": "module-ColorSpaces",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-ColorSpaces.html",
+    "docs_url": "https://threejs.org/docs/#addons/math:module-ColorSpaces"
+  },
+  {
+    "path": "docs/pages/ConvexObjectBreaker.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "ConvexObjectBreaker",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ConvexObjectBreaker.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:ConvexObjectBreaker"
+  },
+  {
+    "path": "docs/pages/GPUComputationRenderer.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "GPUComputationRenderer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GPUComputationRenderer.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:GPUComputationRenderer"
+  },
+  {
+    "path": "docs/pages/Gyroscope.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "Gyroscope",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Gyroscope.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:Gyroscope"
+  },
+  {
+    "path": "docs/pages/MD2Character.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "MD2Character",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MD2Character.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:MD2Character"
+  },
+  {
+    "path": "docs/pages/MD2CharacterComplex.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "MD2CharacterComplex",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MD2CharacterComplex.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:MD2CharacterComplex"
+  },
+  {
+    "path": "docs/pages/MorphAnimMesh.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "MorphAnimMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MorphAnimMesh.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:MorphAnimMesh"
+  },
+  {
+    "path": "docs/pages/MorphBlendMesh.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "MorphBlendMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MorphBlendMesh.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:MorphBlendMesh"
+  },
+  {
+    "path": "docs/pages/ProgressiveLightMap.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "ProgressiveLightMap",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ProgressiveLightMap.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:ProgressiveLightMap"
+  },
+  {
+    "path": "docs/pages/RollerCoasterGeometry.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "RollerCoasterGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RollerCoasterGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:RollerCoasterGeometry"
+  },
+  {
+    "path": "docs/pages/RollerCoasterLiftersGeometry.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "RollerCoasterLiftersGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RollerCoasterLiftersGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:RollerCoasterLiftersGeometry"
+  },
+  {
+    "path": "docs/pages/RollerCoasterShadowGeometry.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "RollerCoasterShadowGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RollerCoasterShadowGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:RollerCoasterShadowGeometry"
+  },
+  {
+    "path": "docs/pages/SkyGeometry.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "SkyGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SkyGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:SkyGeometry"
+  },
+  {
+    "path": "docs/pages/TreesGeometry.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "TreesGeometry",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TreesGeometry.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:TreesGeometry"
+  },
+  {
+    "path": "docs/pages/TubePainter.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "TubePainter",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TubePainter.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:TubePainter"
+  },
+  {
+    "path": "docs/pages/Volume.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "Volume",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Volume.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:Volume"
+  },
+  {
+    "path": "docs/pages/VolumeSlice.html",
+    "category": "addons",
+    "subcategory": "misc",
+    "name": "VolumeSlice",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VolumeSlice.html",
+    "docs_url": "https://threejs.org/docs/#addons/misc:VolumeSlice"
+  },
+  {
+    "path": "docs/pages/EdgeSplitModifier.html",
+    "category": "addons",
+    "subcategory": "modifiers",
+    "name": "EdgeSplitModifier",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EdgeSplitModifier.html",
+    "docs_url": "https://threejs.org/docs/#addons/modifiers:EdgeSplitModifier"
+  },
+  {
+    "path": "docs/pages/Flow.html",
+    "category": "addons",
+    "subcategory": "modifiers",
+    "name": "Flow",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Flow.html",
+    "docs_url": "https://threejs.org/docs/#addons/modifiers:Flow"
+  },
+  {
+    "path": "docs/pages/InstancedFlow.html",
+    "category": "addons",
+    "subcategory": "modifiers",
+    "name": "InstancedFlow",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/InstancedFlow.html",
+    "docs_url": "https://threejs.org/docs/#addons/modifiers:InstancedFlow"
+  },
+  {
+    "path": "docs/pages/SimplifyModifier.html",
+    "category": "addons",
+    "subcategory": "modifiers",
+    "name": "SimplifyModifier",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SimplifyModifier.html",
+    "docs_url": "https://threejs.org/docs/#addons/modifiers:SimplifyModifier"
+  },
+  {
+    "path": "docs/pages/TessellateModifier.html",
+    "category": "addons",
+    "subcategory": "modifiers",
+    "name": "TessellateModifier",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TessellateModifier.html",
+    "docs_url": "https://threejs.org/docs/#addons/modifiers:TessellateModifier"
+  },
+  {
+    "path": "docs/pages/GroundedSkybox.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "GroundedSkybox",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GroundedSkybox.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:GroundedSkybox"
+  },
+  {
+    "path": "docs/pages/Lensflare.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "Lensflare",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Lensflare.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:Lensflare"
+  },
+  {
+    "path": "docs/pages/LensflareElement.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "LensflareElement",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LensflareElement.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:LensflareElement"
+  },
+  {
+    "path": "docs/pages/LensflareMesh.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "LensflareMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LensflareMesh.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:LensflareMesh"
+  },
+  {
+    "path": "docs/pages/MarchingCubes.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "MarchingCubes",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MarchingCubes.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:MarchingCubes"
+  },
+  {
+    "path": "docs/pages/Reflector.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "Reflector",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Reflector.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:Reflector"
+  },
+  {
+    "path": "docs/pages/ReflectorForSSRPass.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "ReflectorForSSRPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ReflectorForSSRPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:ReflectorForSSRPass"
+  },
+  {
+    "path": "docs/pages/Refractor.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "Refractor",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Refractor.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:Refractor"
+  },
+  {
+    "path": "docs/pages/ShadowMesh.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "ShadowMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShadowMesh.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:ShadowMesh"
+  },
+  {
+    "path": "docs/pages/Sky.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "Sky",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Sky.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:Sky"
+  },
+  {
+    "path": "docs/pages/SkyMesh.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "SkyMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SkyMesh.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:SkyMesh"
+  },
+  {
+    "path": "docs/pages/Water.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "Water",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Water.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:Water"
+  },
+  {
+    "path": "docs/pages/WaterMesh.html",
+    "category": "addons",
+    "subcategory": "objects",
+    "name": "WaterMesh",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WaterMesh.html",
+    "docs_url": "https://threejs.org/docs/#addons/objects:WaterMesh"
+  },
+  {
+    "path": "docs/pages/AmmoPhysics.html",
+    "category": "addons",
+    "subcategory": "physics",
+    "name": "AmmoPhysics",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AmmoPhysics.html",
+    "docs_url": "https://threejs.org/docs/#addons/physics:AmmoPhysics"
+  },
+  {
+    "path": "docs/pages/JoltPhysics.html",
+    "category": "addons",
+    "subcategory": "physics",
+    "name": "JoltPhysics",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/JoltPhysics.html",
+    "docs_url": "https://threejs.org/docs/#addons/physics:JoltPhysics"
+  },
+  {
+    "path": "docs/pages/RapierPhysics.html",
+    "category": "addons",
+    "subcategory": "physics",
+    "name": "RapierPhysics",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RapierPhysics.html",
+    "docs_url": "https://threejs.org/docs/#addons/physics:RapierPhysics"
+  },
+  {
+    "path": "docs/pages/AfterimagePass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "AfterimagePass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AfterimagePass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:AfterimagePass"
+  },
+  {
+    "path": "docs/pages/BilateralBlurNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "BilateralBlurNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BilateralBlurNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:BilateralBlurNode"
+  },
+  {
+    "path": "docs/pages/BloomNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "BloomNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BloomNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:BloomNode"
+  },
+  {
+    "path": "docs/pages/BloomPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "BloomPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BloomPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:BloomPass"
+  },
+  {
+    "path": "docs/pages/BokehPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "BokehPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BokehPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:BokehPass"
+  },
+  {
+    "path": "docs/pages/ChromaticAberrationNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "ChromaticAberrationNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ChromaticAberrationNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:ChromaticAberrationNode"
+  },
+  {
+    "path": "docs/pages/ClearMaskPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "ClearMaskPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ClearMaskPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:ClearMaskPass"
+  },
+  {
+    "path": "docs/pages/ClearPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "ClearPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ClearPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:ClearPass"
+  },
+  {
+    "path": "docs/pages/CubeTexturePass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "CubeTexturePass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubeTexturePass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:CubeTexturePass"
+  },
+  {
+    "path": "docs/pages/DenoiseNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "DenoiseNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DenoiseNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:DenoiseNode"
+  },
+  {
+    "path": "docs/pages/DepthOfFieldNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "DepthOfFieldNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DepthOfFieldNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:DepthOfFieldNode"
+  },
+  {
+    "path": "docs/pages/DotScreenNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "DotScreenNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DotScreenNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:DotScreenNode"
+  },
+  {
+    "path": "docs/pages/DotScreenPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "DotScreenPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DotScreenPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:DotScreenPass"
+  },
+  {
+    "path": "docs/pages/EffectComposer.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "EffectComposer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EffectComposer.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:EffectComposer"
+  },
+  {
+    "path": "docs/pages/FXAANode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "FXAANode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FXAANode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:FXAANode"
+  },
+  {
+    "path": "docs/pages/FXAAPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "FXAAPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FXAAPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:FXAAPass"
+  },
+  {
+    "path": "docs/pages/FilmNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "FilmNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FilmNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:FilmNode"
+  },
+  {
+    "path": "docs/pages/FilmPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "FilmPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FilmPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:FilmPass"
+  },
+  {
+    "path": "docs/pages/GlitchPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "GlitchPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GlitchPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:GlitchPass"
+  },
+  {
+    "path": "docs/pages/GTAONode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "GTAONode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/GTAONode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:GTAONode"
+  },
+  {
+    "path": "docs/pages/HalftonePass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "HalftonePass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/HalftonePass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:HalftonePass"
+  },
+  {
+    "path": "docs/pages/MaskPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "MaskPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/MaskPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:MaskPass"
+  },
+  {
+    "path": "docs/pages/OutlineNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "OutlineNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OutlineNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:OutlineNode"
+  },
+  {
+    "path": "docs/pages/OutputPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "OutputPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OutputPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:OutputPass"
+  },
+  {
+    "path": "docs/pages/PixelationNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "PixelationNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/PixelationNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:PixelationNode"
+  },
+  {
+    "path": "docs/pages/RenderPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "RenderPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RenderPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:RenderPass"
+  },
+  {
+    "path": "docs/pages/RenderPixelatedPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "RenderPixelatedPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/RenderPixelatedPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:RenderPixelatedPass"
+  },
+  {
+    "path": "docs/pages/SAOPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "SAOPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SAOPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:SAOPass"
+  },
+  {
+    "path": "docs/pages/SMAAPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "SMAAPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SMAAPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:SMAAPass"
+  },
+  {
+    "path": "docs/pages/SSAONode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "SSAONode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SSAONode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:SSAONode"
+  },
+  {
+    "path": "docs/pages/SSAOPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "SSAOPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SSAOPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:SSAOPass"
+  },
+  {
+    "path": "docs/pages/SSRNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "SSRNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SSRNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:SSRNode"
+  },
+  {
+    "path": "docs/pages/SSRPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "SSRPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SSRPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:SSRPass"
+  },
+  {
+    "path": "docs/pages/ShaderPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "ShaderPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShaderPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:ShaderPass"
+  },
+  {
+    "path": "docs/pages/SobelOperatorPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "SobelOperatorPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SobelOperatorPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:SobelOperatorPass"
+  },
+  {
+    "path": "docs/pages/TAARenderPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "TAARenderPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TAARenderPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:TAARenderPass"
+  },
+  {
+    "path": "docs/pages/TRAANode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "TRAANode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TRAANode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:TRAANode"
+  },
+  {
+    "path": "docs/pages/TransitionPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "TransitionPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/TransitionPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:TransitionPass"
+  },
+  {
+    "path": "docs/pages/UnrealBloomPass.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "UnrealBloomPass",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/UnrealBloomPass.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:UnrealBloomPass"
+  },
+  {
+    "path": "docs/pages/AnamorphicNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "AnamorphicNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnamorphicNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:AnamorphicNode"
+  },
+  {
+    "path": "docs/pages/AONode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "AONode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AONode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:AONode"
+  },
+  {
+    "path": "docs/pages/AfterImageNode.html",
+    "category": "addons",
+    "subcategory": "postprocessing",
+    "name": "AfterImageNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AfterImageNode.html",
+    "docs_url": "https://threejs.org/docs/#addons/postprocessing:AfterImageNode"
+  },
+  {
+    "path": "docs/pages/CSS2DObject.html",
+    "category": "addons",
+    "subcategory": "renderers",
+    "name": "CSS2DObject",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSS2DObject.html",
+    "docs_url": "https://threejs.org/docs/#addons/renderers:CSS2DObject"
+  },
+  {
+    "path": "docs/pages/CSS2DRenderer.html",
+    "category": "addons",
+    "subcategory": "renderers",
+    "name": "CSS2DRenderer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSS2DRenderer.html",
+    "docs_url": "https://threejs.org/docs/#addons/renderers:CSS2DRenderer"
+  },
+  {
+    "path": "docs/pages/CSS3DObject.html",
+    "category": "addons",
+    "subcategory": "renderers",
+    "name": "CSS3DObject",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSS3DObject.html",
+    "docs_url": "https://threejs.org/docs/#addons/renderers:CSS3DObject"
+  },
+  {
+    "path": "docs/pages/CSS3DRenderer.html",
+    "category": "addons",
+    "subcategory": "renderers",
+    "name": "CSS3DRenderer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSS3DRenderer.html",
+    "docs_url": "https://threejs.org/docs/#addons/renderers:CSS3DRenderer"
+  },
+  {
+    "path": "docs/pages/CSS3DSprite.html",
+    "category": "addons",
+    "subcategory": "renderers",
+    "name": "CSS3DSprite",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CSS3DSprite.html",
+    "docs_url": "https://threejs.org/docs/#addons/renderers:CSS3DSprite"
+  },
+  {
+    "path": "docs/pages/Projector.html",
+    "category": "addons",
+    "subcategory": "renderers",
+    "name": "Projector",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Projector.html",
+    "docs_url": "https://threejs.org/docs/#addons/renderers:Projector"
+  },
+  {
+    "path": "docs/pages/SVGObject.html",
+    "category": "addons",
+    "subcategory": "renderers",
+    "name": "SVGObject",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SVGObject.html",
+    "docs_url": "https://threejs.org/docs/#addons/renderers:SVGObject"
+  },
+  {
+    "path": "docs/pages/SVGRenderer.html",
+    "category": "addons",
+    "subcategory": "renderers",
+    "name": "SVGRenderer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SVGRenderer.html",
+    "docs_url": "https://threejs.org/docs/#addons/renderers:SVGRenderer"
+  },
+  {
+    "path": "docs/pages/FlakesTexture.html",
+    "category": "addons",
+    "subcategory": "textures",
+    "name": "FlakesTexture",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FlakesTexture.html",
+    "docs_url": "https://threejs.org/docs/#addons/textures:FlakesTexture"
+  },
+  {
+    "path": "docs/pages/Transpiler.html",
+    "category": "addons",
+    "subcategory": "transpiler",
+    "name": "Transpiler",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/Transpiler.html",
+    "docs_url": "https://threejs.org/docs/#addons/transpiler:Transpiler"
+  },
+  {
+    "path": "docs/pages/LDrawUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "LDrawUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/LDrawUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:LDrawUtils"
+  },
+  {
+    "path": "docs/pages/SceneOptimizer.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "SceneOptimizer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/SceneOptimizer.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:SceneOptimizer"
+  },
+  {
+    "path": "docs/pages/ShadowMapViewer.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "ShadowMapViewer",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ShadowMapViewer.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:ShadowMapViewer"
+  },
+  {
+    "path": "docs/pages/WorkerPool.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "WorkerPool",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/WorkerPool.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:WorkerPool"
+  },
+  {
+    "path": "docs/pages/module-BufferGeometryUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-BufferGeometryUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-BufferGeometryUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-BufferGeometryUtils"
+  },
+  {
+    "path": "docs/pages/module-CameraUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-CameraUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-CameraUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-CameraUtils"
+  },
+  {
+    "path": "docs/pages/module-GeometryCompressionUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-GeometryCompressionUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-GeometryCompressionUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-GeometryCompressionUtils"
+  },
+  {
+    "path": "docs/pages/module-GeometryUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-GeometryUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-GeometryUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-GeometryUtils"
+  },
+  {
+    "path": "docs/pages/module-SceneUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-SceneUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-SceneUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-SceneUtils"
+  },
+  {
+    "path": "docs/pages/module-SkeletonUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-SkeletonUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-SkeletonUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-SkeletonUtils"
+  },
+  {
+    "path": "docs/pages/module-SortUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-SortUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-SortUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-SortUtils"
+  },
+  {
+    "path": "docs/pages/module-UVsDebug.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-UVsDebug",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-UVsDebug.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-UVsDebug"
+  },
+  {
+    "path": "docs/pages/module-WebGLTextureUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-WebGLTextureUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-WebGLTextureUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-WebGLTextureUtils"
+  },
+  {
+    "path": "docs/pages/module-WebGPUTextureUtils.html",
+    "category": "addons",
+    "subcategory": "utils",
+    "name": "module-WebGPUTextureUtils",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-WebGPUTextureUtils.html",
+    "docs_url": "https://threejs.org/docs/#addons/utils:module-WebGPUTextureUtils"
+  },
+  {
+    "path": "docs/pages/ARButton.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "ARButton",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ARButton.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:ARButton"
+  },
+  {
+    "path": "docs/pages/OculusHandModel.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "OculusHandModel",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OculusHandModel.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:OculusHandModel"
+  },
+  {
+    "path": "docs/pages/OculusHandPointerModel.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "OculusHandPointerModel",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/OculusHandPointerModel.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:OculusHandPointerModel"
+  },
+  {
+    "path": "docs/pages/VRButton.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "VRButton",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/VRButton.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:VRButton"
+  },
+  {
+    "path": "docs/pages/XRButton.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XRButton",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRButton.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XRButton"
+  },
+  {
+    "path": "docs/pages/XRControllerModel.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XRControllerModel",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRControllerModel.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XRControllerModel"
+  },
+  {
+    "path": "docs/pages/XRControllerModelFactory.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XRControllerModelFactory",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRControllerModelFactory.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XRControllerModelFactory"
+  },
+  {
+    "path": "docs/pages/XREstimatedLight.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XREstimatedLight",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XREstimatedLight.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XREstimatedLight"
+  },
+  {
+    "path": "docs/pages/XRHandMeshModel.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XRHandMeshModel",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRHandMeshModel.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XRHandMeshModel"
+  },
+  {
+    "path": "docs/pages/XRHandModel.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XRHandModel",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRHandModel.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XRHandModel"
+  },
+  {
+    "path": "docs/pages/XRHandModelFactory.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XRHandModelFactory",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRHandModelFactory.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XRHandModelFactory"
+  },
+  {
+    "path": "docs/pages/XRHandPrimitiveModel.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XRHandPrimitiveModel",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRHandPrimitiveModel.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XRHandPrimitiveModel"
+  },
+  {
+    "path": "docs/pages/XRPlanes.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "XRPlanes",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/XRPlanes.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:XRPlanes"
+  },
+  {
+    "path": "docs/pages/module-Text2D.html",
+    "category": "addons",
+    "subcategory": "webxr",
+    "name": "module-Text2D",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/module-Text2D.html",
+    "docs_url": "https://threejs.org/docs/#addons/webxr:module-Text2D"
+  },
+  {
+    "path": "docs/pages/AnalyticLightNode.html",
+    "category": "nodes",
+    "subcategory": "lighting",
+    "name": "AnalyticLightNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AnalyticLightNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/lighting:AnalyticLightNode"
+  },
+  {
+    "path": "docs/pages/AmbientLightNode.html",
+    "category": "nodes",
+    "subcategory": "lighting",
+    "name": "AmbientLightNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AmbientLightNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/lighting:AmbientLightNode"
+  },
+  {
+    "path": "docs/pages/ArrayElementNode.html",
+    "category": "nodes",
+    "subcategory": "utils",
+    "name": "ArrayElementNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ArrayElementNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/utils:ArrayElementNode"
+  },
+  {
+    "path": "docs/pages/ArrayNode.html",
+    "category": "nodes",
+    "subcategory": "utils",
+    "name": "ArrayNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ArrayNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/utils:ArrayNode"
+  },
+  {
+    "path": "docs/pages/AssignNode.html",
+    "category": "nodes",
+    "subcategory": "utils",
+    "name": "AssignNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AssignNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/utils:AssignNode"
+  },
+  {
+    "path": "docs/pages/AtomicFunctionNode.html",
+    "category": "nodes",
+    "subcategory": "gpgpu",
+    "name": "AtomicFunctionNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AtomicFunctionNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/gpgpu:AtomicFunctionNode"
+  },
+  {
+    "path": "docs/pages/AttributeNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "AttributeNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/AttributeNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:AttributeNode"
+  },
+  {
+    "path": "docs/pages/BarrierNode.html",
+    "category": "nodes",
+    "subcategory": "gpgpu",
+    "name": "BarrierNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BarrierNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/gpgpu:BarrierNode"
+  },
+  {
+    "path": "docs/pages/BasicEnvironmentNode.html",
+    "category": "nodes",
+    "subcategory": "lighting",
+    "name": "BasicEnvironmentNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BasicEnvironmentNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/lighting:BasicEnvironmentNode"
+  },
+  {
+    "path": "docs/pages/BasicLightMapNode.html",
+    "category": "nodes",
+    "subcategory": "lighting",
+    "name": "BasicLightMapNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BasicLightMapNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/lighting:BasicLightMapNode"
+  },
+  {
+    "path": "docs/pages/BasicLightingModel.html",
+    "category": "nodes",
+    "subcategory": "lighting",
+    "name": "BasicLightingModel",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BasicLightingModel.html",
+    "docs_url": "https://threejs.org/docs/#nodes/lighting:BasicLightingModel"
+  },
+  {
+    "path": "docs/pages/BatchNode.html",
+    "category": "nodes",
+    "subcategory": "utils",
+    "name": "BatchNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BatchNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/utils:BatchNode"
+  },
+  {
+    "path": "docs/pages/BitcastNode.html",
+    "category": "nodes",
+    "subcategory": "math",
+    "name": "BitcastNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BitcastNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/math:BitcastNode"
+  },
+  {
+    "path": "docs/pages/BitcountNode.html",
+    "category": "nodes",
+    "subcategory": "math",
+    "name": "BitcountNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BitcountNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/math:BitcountNode"
+  },
+  {
+    "path": "docs/pages/BufferAttributeNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "BufferAttributeNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BufferAttributeNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:BufferAttributeNode"
+  },
+  {
+    "path": "docs/pages/BufferNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "BufferNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BufferNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:BufferNode"
+  },
+  {
+    "path": "docs/pages/BuiltinNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "BuiltinNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BuiltinNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:BuiltinNode"
+  },
+  {
+    "path": "docs/pages/BumpMapNode.html",
+    "category": "nodes",
+    "subcategory": "display",
+    "name": "BumpMapNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BumpMapNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/display:BumpMapNode"
+  },
+  {
+    "path": "docs/pages/BypassNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "BypassNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/BypassNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:BypassNode"
+  },
+  {
+    "path": "docs/pages/ClippingNode.html",
+    "category": "nodes",
+    "subcategory": "display",
+    "name": "ClippingNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ClippingNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/display:ClippingNode"
+  },
+  {
+    "path": "docs/pages/CodeNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "CodeNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CodeNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:CodeNode"
+  },
+  {
+    "path": "docs/pages/ColorSpaceNode.html",
+    "category": "nodes",
+    "subcategory": "display",
+    "name": "ColorSpaceNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ColorSpaceNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/display:ColorSpaceNode"
+  },
+  {
+    "path": "docs/pages/ComputeBuiltinNode.html",
+    "category": "nodes",
+    "subcategory": "gpgpu",
+    "name": "ComputeBuiltinNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ComputeBuiltinNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/gpgpu:ComputeBuiltinNode"
+  },
+  {
+    "path": "docs/pages/ComputeNode.html",
+    "category": "nodes",
+    "subcategory": "gpgpu",
+    "name": "ComputeNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ComputeNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/gpgpu:ComputeNode"
+  },
+  {
+    "path": "docs/pages/ConditionalNode.html",
+    "category": "nodes",
+    "subcategory": "math",
+    "name": "ConditionalNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ConditionalNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/math:ConditionalNode"
+  },
+  {
+    "path": "docs/pages/ConstNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "ConstNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ConstNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:ConstNode"
+  },
+  {
+    "path": "docs/pages/ContextNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "ContextNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ContextNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:ContextNode"
+  },
+  {
+    "path": "docs/pages/ConvertNode.html",
+    "category": "nodes",
+    "subcategory": "utils",
+    "name": "ConvertNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ConvertNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/utils:ConvertNode"
+  },
+  {
+    "path": "docs/pages/CubeMapNode.html",
+    "category": "nodes",
+    "subcategory": "utils",
+    "name": "CubeMapNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubeMapNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/utils:CubeMapNode"
+  },
+  {
+    "path": "docs/pages/CubeTextureNode.html",
+    "category": "nodes",
+    "subcategory": "utils",
+    "name": "CubeTextureNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/CubeTextureNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/utils:CubeTextureNode"
+  },
+  {
+    "path": "docs/pages/DirectionalLightNode.html",
+    "category": "nodes",
+    "subcategory": "lighting",
+    "name": "DirectionalLightNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/DirectionalLightNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/lighting:DirectionalLightNode"
+  },
+  {
+    "path": "docs/pages/EnvironmentNode.html",
+    "category": "nodes",
+    "subcategory": "lighting",
+    "name": "EnvironmentNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EnvironmentNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/lighting:EnvironmentNode"
+  },
+  {
+    "path": "docs/pages/EventNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "EventNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/EventNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:EventNode"
+  },
+  {
+    "path": "docs/pages/ExpressionNode.html",
+    "category": "nodes",
+    "subcategory": "core",
+    "name": "ExpressionNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/ExpressionNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/core:ExpressionNode"
+  },
+  {
+    "path": "docs/pages/FlipNode.html",
+    "category": "nodes",
+    "subcategory": "utils",
+    "name": "FlipNode",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/docs/pages/FlipNode.html",
+    "docs_url": "https://threejs.org/docs/#nodes/utils:FlipNode"
+  }
+]
